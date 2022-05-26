@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrennoMaturino1
-- 👀 I’m interested in creating a new programming language
+- 👀 I’m interested in creating a billboard called BrennCode, it adds utils like colorful console and a more precise math system
 - 🌱 I’m currently learning C#
 - 📫 How to reach me brennomaturino@gmail.com
 
