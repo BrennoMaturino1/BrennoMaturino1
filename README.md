@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrennoMaturino1
-- 👀 I’m interested in creating a billboard called BrennCode, it adds utils like colorful console and a more precise math system
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in working in a billboard called BrennCode
 - 📫 How to reach me brennomaturino@gmail.com
 
 <!---
