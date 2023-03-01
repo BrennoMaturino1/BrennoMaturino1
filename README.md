@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrennoMaturino1
-- 👀 I’m interested in working in a billboard called BrennCode
+- 👀 I’m developing a commercial system, the source code might be released when i finish it
 - 📫 How to reach me brennomaturino2@gmail.com
 
 <!---
