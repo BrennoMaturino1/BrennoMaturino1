@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrennoMaturino1
-- 👀 I’m developing a commercial system, the source code might be released when i finish it
+- 👀 I’m developing a modular watch
 - 📫 How to reach me brennomaturino2@gmail.com
 
 <!---
